@@ -1,0 +1,35 @@
+body{
+    background-image: url(../IMG/need-for-speed-heat-nfs.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+h1,h2{
+    color:rgb(255, 255, 255);
+}
+form{
+    border-style: solid;
+    width: 60%;
+    height: 300px;
+    margin: auto;
+    background-color: rgba(219, 207, 196, 0);
+    border-radius: 30px;
+}
+#boton{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 10px;
+    }
+button{
+    background-color: rgba(255, 255, 255, 0.959);
+    border-radius: 30px;
+    width:150px;
+    height:100px;
+    font-weight:bold;
+}
+p{
+    font-size: 20px;
+    background-color: rgba(255, 255, 255, 0.247);
+}
